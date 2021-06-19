@@ -1,0 +1,26 @@
+
+{
+  "title": "Yakumo-San Wa Edzuke Ga Shitai",
+  "description": "Cute romantic comedy manga about a widow named Yakumo Shuuko who enjoys cooking food for a baseball playing teenager named Yamato Shuuhei",
+  "artist": "Satomi U",
+  "author": "Satomi U",
+  "cover": "https://i.imgur.com/Cd7iKy2.jpg",
+  "chapters": {
+    "58": {
+      "title": "Midnight Birthday",
+      "volume": "09",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/5kKm1r7/"
+      },
+      "last_updated": "1621930150"
+    },
+    "59": {
+      "title": "Winter Clothes For You",
+      "volume": "09",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/hqRyOTC/"
+      },
+      "last_updated": "1623386442"
+    }
+  }
+}
