@@ -6,6 +6,38 @@
   "author": "Satomi U",
   "cover": "https://i.imgur.com/Cd7iKy2.jpg",
   "chapters": {
+     "55": {
+      "title": "My Straight Ball",
+      "volume": "08",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/jL2LFWh/"
+      },
+      "last_updated": "1621930287"
+    },
+     "56": {
+      "title": "Sakura's Sports Festival",
+      "volume": "08",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/6IOKBor/"
+      },
+      "last_updated": "1621930287"
+    },
+     "57": {
+      "title": "You Like Mackerels Rather Than Third Helpings?",
+      "volume": "08",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/veyu6UH/"
+      },
+      "last_updated": "1621930287"
+    },
+     "57.5": {
+      "title": "[Volume Extras]",
+      "volume": "08",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/tK7bTnW/"
+      },
+      "last_updated": "1621930287"
+    },
     "58": {
       "title": "Midnight Birthday",
       "volume": "09",
